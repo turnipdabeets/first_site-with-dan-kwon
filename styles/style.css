@@ -1,0 +1,15 @@
+.container{
+	width: 100%;
+	background: red;
+	color: #fff;
+	padding:24px;
+}
+.container img{
+	width:5%;
+}
+.container a{
+	color:yellow;
+}
+.container h1{
+	color: green;
+}
